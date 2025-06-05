@@ -28,7 +28,8 @@ The input images are stored in the current directory. You can test the pipeline 
 The text is extracted using OCR and displayed in readable format below the vehicle, solving the issue of poor visibility due to glare, font, or distance.
 
 🧪 The Environment
-Windows 10 / Google Colab
+
+Google Colab
 
 Python 3.10.10
 
