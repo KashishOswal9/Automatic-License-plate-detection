@@ -1,4 +1,6 @@
 # Automatic-License-plate-detection
+![output_image](https://github.com/user-attachments/assets/4efa3911-2144-4b0d-a3a4-836a2dec6c21)
+
 Number Plate Detection using OCR
 In this project, I used Python, OpenCV, and EasyOCR to detect and read number plates from vehicles in both images and videos. A complete image processing and OCR pipeline was developed to localize license plates, extract text, and display it clearly on the output frame.
 
